@@ -1,0 +1,23 @@
+Test Case,Result,Status
+Performance Score,100,Pass
+Accessibility Score,96,Pass
+Best Practices Score,100,Pass
+SEO Score,100,Pass
+First Contentful Paint,0.2s,Pass
+Largest Contentful Paint,0.7s,Pass
+Total Blocking Time,10ms,Pass
+Cumulative Layout Shift,0.001,Pass
+Speed Index,0.8s,Pass
+Properly size images,168 KiB savings,Fail
+Reduce unused JavaScript,170 KiB savings,Fail
+Avoid large layout shifts,1 shift found,Fail
+Initial server response time,410ms,Pass
+Avoids enormous network payloads,822 KiB,Fail
+Avoids excessive DOM size,253 elements,Pass
+Avoid chaining critical requests,1 chain found,Fail
+JavaScript execution time,0.3s,Pass
+Minimizes main-thread work,0.5s,Pass
+Minimize third-party usage,10ms block,Pass
+Largest Contentful Paint element,680ms,Pass
+Avoid long main-thread tasks,2 long tasks,Fail
+Contrast issues,Low contrast detected,Fail
